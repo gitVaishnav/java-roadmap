@@ -83,9 +83,9 @@ Master concurrency.
 
 Use:
 
-- Spring Boot
-- MySQL or PostgreSQL
-- Spring Data JPA
+- [ ] Spring Boot
+- [ ] MySQL or PostgreSQL
+- [ ] Spring Data JPA
 
 ---
 
@@ -93,33 +93,33 @@ Use:
 
 ### Features
 
-- Register/Login
-- JWT Authentication
-- CRUD Users
-- Pagination
-- Sorting
-- Validation
-- Global Exception Handling
+- [ ] Register/Login
+- [ ] JWT Authentication
+- [ ] CRUD Users
+- [ ] Pagination
+- [ ] Sorting
+- [ ] Validation
+- [ ] Global Exception Handling
 
 ### Add:
 
-- Password hashing
-- Role-based authorization
-- Unit tests
+- [ ] Password hashing
+- [ ] Role-based authorization
+- [ ] Unit tests
 
 ### Concepts Covered
 
-- REST APIs
-- DTO pattern
-- Repository pattern
-- Transactions
-- Indexing
+- [ ] REST APIs
+- [ ] DTO pattern
+- [ ] Repository pattern
+- [ ] Transactions
+- [ ] Indexing
 
 Deploy it (mandatory):
 
-- Amazon Web Services
-- Render
-- Railway
+- [ ] Amazon Web Services
+- [ ] Render
+- [ ] Railway
 
 ---
 
@@ -129,32 +129,32 @@ Deploy it (mandatory):
 
 ### Features
 
-- Products
-- Cart
-- Orders
-- Payment simulation
-- Inventory management
+- [ ] Products
+- [ ] Cart
+- [ ] Orders
+- [ ] Payment simulation
+- [ ] Inventory management
 
 ### Advanced Features
 
-- Caching (Redis)
-- Optimistic locking
-- Order state machine
-- Rate limiting
-- API documentation
+- [ ] Caching (Redis)
+- [ ] Optimistic locking
+- [ ] Order state machine
+- [ ] Rate limiting
+- [ ] API documentation
 
 Use:
 
-- Spring Security
-- Swagger
+- [ ] Spring Security
+- [ ] Swagger
 
 ### Concepts Covered
 
-- Transactions
-- ACID
-- Race conditions
-- DTO mapping
-- Service layer separation
+- [ ] Transactions
+- [ ] ACID
+- [ ] Race conditions
+- [ ] DTO mapping
+- [ ] Service layer separation
 
 ---
 
@@ -164,29 +164,29 @@ Use:
 
 Break E-commerce into:
 
-- User Service
-- Product Service
-- Order Service
-- Payment Service
+- [ ] User Service
+- [ ] Product Service
+- [ ] Order Service
+- [ ] Payment Service
 
 ### Add:
 
-- API Gateway
-- Service-to-service communication
-- Circuit breaker
-- Logging
-- Centralized config
+- [ ] API Gateway
+- [ ] Service-to-service communication
+- [ ] Circuit breaker
+- [ ] Logging
+- [ ] Centralized config
 
 Containerize using:
 
-- Docker
+- [ ] Docker
 
 ### Concepts Covered
 
-- Distributed systems
-- Service discovery
-- Fault tolerance
-- Horizontal scaling
+- [ ] Distributed systems
+- [ ] Service discovery
+- [ ] Fault tolerance
+- [ ] Horizontal scaling
 
 ---
 
@@ -196,23 +196,23 @@ Containerize using:
 
 ### Features
 
-- Generate short URLs
-- Redirection
-- Analytics
-- Rate limiting
+- [ ] Generate short URLs
+- [ ] Redirection
+- [ ] Analytics
+- [ ] Rate limiting
 
 ### Advanced:
 
-- Distributed ID generation
-- Caching layer
-- Load balancing simulation
+- [ ] Distributed ID generation
+- [ ] Caching layer
+- [ ] Load balancing simulation
 
 Concepts:
 
-- CAP theorem
-- Consistency models
-- Database sharding
-- Index design
+- [ ] CAP theorem
+- [ ] Consistency models
+- [ ] Database sharding
+- [ ] Index design
 
 ---
 
@@ -222,22 +222,22 @@ Choose one:
 
 ### Option A: Real-Time Chat Application
 
-- WebSocket
-- Message persistence
-- Group chat
-- Typing indicators
+- [ ] WebSocket
+- [ ] Message persistence
+- [ ] Group chat
+- [ ] Typing indicators
 
 ### Option B: Stock Trading Simulator
 
-- Order matching engine
-- Priority queue
-- Concurrent order processing
+- [ ] Order matching engine
+- [ ] Priority queue
+- [ ] Concurrent order processing
 
 ### Option C: Distributed Task Scheduler
 
-- Worker nodes
-- Job queue
-- Retry mechanism
+- [ ] Worker nodes
+- [ ] Job queue
+- [ ] Retry mechanism
 
 These projects differentiate you from average candidates.
 
@@ -247,10 +247,10 @@ These projects differentiate you from average candidates.
 
 Apply to one project:
 
-- CI/CD pipeline
-- Dockerize app
-- Basic Kubernetes deployment
-- Logging and monitoring
+- [ ] CI/CD pipeline
+- [ ] Dockerize app
+- [ ] Basic Kubernetes deployment
+- [ ] Logging and monitoring
 
 ---
 
@@ -280,10 +280,10 @@ Work in this order:
 
 # Realistic Timeline
 
-- Stage 1–2: 2 months
-- Stage 3–4: 3 months
-- Stage 5–6: 2 months
-- Stage 7–8: 1–2 months
+- [ ] Stage 1–2: 2 months
+- [ ] Stage 3–4: 3 months
+- [ ] Stage 5–6: 2 months
+- [ ] Stage 7–8: 1–2 months
 
 Total: 8–9 months serious effort.
 
