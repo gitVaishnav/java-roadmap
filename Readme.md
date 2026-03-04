@@ -1,5 +1,3 @@
----
-
 # Stage 1 — Core Java Mastery (No Frameworks)
 
 ## Project 1: Console-Based Banking System
@@ -31,7 +29,6 @@
 - [ ]  Add logging
 
 ---
-
 ## Project 2: Custom Data Structures Library
 
 ### Objective
@@ -55,7 +52,6 @@ Understand internal working of collections.
 
 If you cannot implement `HashMap`, you do not understand Java deeply.
 
----
 
 # Stage 2 — Multithreading + Performance
 
